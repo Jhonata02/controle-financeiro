@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/://jhonata02.github.io/controle-financeiro/static/js/main.8cad51f6.js",
-    "index.html": "/://jhonata02.github.io/controle-financeiro/index.html",
-    "main.8cad51f6.js.map": "/://jhonata02.github.io/controle-financeiro/static/js/main.8cad51f6.js.map"
+    "main.js": "/controle-financeiro/static/js/main.fe0178a8.js",
+    "index.html": "/controle-financeiro/index.html",
+    "main.fe0178a8.js.map": "/controle-financeiro/static/js/main.fe0178a8.js.map"
   },
   "entrypoints": [
-    "static/js/main.8cad51f6.js"
+    "static/js/main.fe0178a8.js"
   ]
 }
